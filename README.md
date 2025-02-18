@@ -29,6 +29,6 @@ This Excel dashboard provides a comprehensive analysis of Blinkit's sales perfor
 
 ## 📂 Project Files
 - **📌 Blinkit_Sales_Dashboard.xlsx** – Final dashboard with all analyses.
-- **📌 Screenshots** – High-quality images of the dashboard.
+- **📌 Dataset** – THis is the actual dataset without cleaned
 
 #
