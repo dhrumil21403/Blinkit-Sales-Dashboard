@@ -6,8 +6,7 @@ This Excel dashboard provides insights into Blinkit's sales performance, custome
 ✅ Data Cleaning & Preparation  
 ✅ Pivot Tables & KPIs (Total Sales, Avg Ratings, etc.)  
 ✅ Interactive Charts (Pie, Bar, Line, Stacked Column)  
-
-🔗 View the dashboard screenshots below!  
+ 
 
 ---
 📩 Feel free to download, explore, and provide feedback!
